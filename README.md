@@ -53,6 +53,8 @@ src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,g
 </a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--- stats & Trophy (start) -->
 <p align="center">
