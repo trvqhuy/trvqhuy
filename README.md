@@ -54,15 +54,11 @@ src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,g
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 147.0 kB Used in GitHub's Storage 
  > 
-> 🏆 24 Contributions in the Year 2024
+> 🏆 25 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,14 +66,6 @@ src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,g
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-🌆 Daytime                282 commits         ████████████████░░░░░░░░░   65.43 % 
-🌃 Evening                100 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
@@ -95,35 +83,10 @@ Sunday                   60 commits          ███░░░░░░░░�
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ███████████████████░░░░░░   75.00 % 
-HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/trvqhuy/trvqhuy/main/assets/bar_graph.png)
-
-
- Last Updated on 16/06/2024 10:57:41 UTC
+ Last Updated on 16/06/2024 10:59:39 UTC
 <!--END_SECTION:waka-->
 
 <!--- stats & Trophy (start) -->
