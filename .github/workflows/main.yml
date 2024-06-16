@@ -18,6 +18,7 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_COMMIT: false
           SHOW_LANGUAGE: false
+          SHOW_SHORT_INFO: false
           SHOW_OS: false
           SHOW_PROJECTS: false
           SHOW_EDITORS: false
