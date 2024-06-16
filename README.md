@@ -54,6 +54,76 @@ src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,g
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 147.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 24 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+🌆 Daytime                281 commits         ████████████████░░░░░░░░░   65.35 % 
+🌃 Evening                100 commits         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   90 commits          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Tuesday                  70 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Wednesday                99 commits          ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Thursday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Friday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Saturday                 14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Sunday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ███████████████████░░░░░░   75.00 % 
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/trvqhuy/trvqhuy/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/06/2024 10:46:54 UTC
 <!--END_SECTION:waka-->
 
 <!--- stats & Trophy (start) -->
