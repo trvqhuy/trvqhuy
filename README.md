@@ -16,7 +16,7 @@
 <div id="user-content-toc">
 <ul align="center">
 <summary>
-<h2 style="display: inline-block">"Success is stumbling from failure to failure with no loss of enthusiasm"
+<h2 style="display: inline-block">You don't have to be great to start, but you have to start to be great
 </h2>
 </summary>
 </ul>
