@@ -27,9 +27,9 @@
 
 - 🌱 I’m currently learning **to put together a vast selection of Front-end/Back-end Technologies.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
 
-- 💬 Ask me about **Python, C/C++, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Python, C/C++, React, React-native, NodeJS, MongoDB**
 
 - 📫 Feel free to reach me out **quanghuytrinhvuong@gmail.com**
 
@@ -61,6 +61,7 @@ src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,g
 </summary>
 </ul>
 </div>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2010%20mins-blue)
 
