@@ -20,7 +20,8 @@ jobs:
           SHOW_LANGUAGE: false
           SHOW_SHORT_INFO: false
           SHOW_OS: false
-          SHOW_PROJECTS: false
+          SHOW_PROJECTS: true
           SHOW_EDITORS: false
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_LOC_CHART: false
+          SHOW_UPDATED_DATE: false
