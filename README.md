@@ -90,7 +90,7 @@ Sunday                   63 commits          ████░░░░░░░�
 <div align=center>
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
 <img align="center" width=84%
-src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&no-bg=true"
+src="https://github-profile-trophy.vercel.app/?username=trvqhuy&theme=juicyfresh&no-bg=true"
 alt="TROPHY" />
 </a>
 </div>
