@@ -2,7 +2,7 @@
 <div id="user-content-toc">
 <ul align="center">
 <summary>
-<h1 style="display: inline-block;">Hi there 👋, I'm Huy V. Trinh</h1>
+<h2 style="display: inline-block;">Hi there 👋, I'm Huy V. Trinh</h2>
 </summary>
 </ul>
 </div>
