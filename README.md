@@ -49,10 +49,18 @@
 <p align="center">
 <a href="https://skillicons.dev">
 <img
-src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,github,html,java,js,c,cs,cpp,arduino,linux,md,materialui,mongodb,mysql,nextjs,express,nodejs,react,tailwind,kubernetes,vscode,figma,postman,discord&perline=9" />
+src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,github,html,java,js,c,cs,cpp,arduino,linux,md,materialui,mongodb,mysql,nextjs,express,nodejs,react,tailwind,kubernetes,vscode,figma,ai,postman&perline=9" />
 </a>
 </p>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+<ul align="center">
+<summary>
+<h2 style="display: inline-block">Fun facts about me</h2>
+</summary>
+</ul>
+</div>
 <!--START_SECTION:waka-->
 
  Last Updated on 16/06/2024 18:38:14 UTC
@@ -83,16 +91,13 @@ alt="TROPHY" />
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com" target="blank"><img align="center"
-src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
-alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center"
-src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png"
-alt="twitter" height="50" width="50" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center"
-src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
-alt="instagram" height="50" width="50" /></a>
+<a href="mailto:quanghuytrinhvuong@gmail.com" target="blank"><img align="center"
+src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+alt="gmail" height="30"/></a>
+<a href="https://api-development-world.slack.com/team/U06PH869SF2" target="blank"><img align="center"
+src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"
+alt="slack" height="30"/></a>
 <a href="https://discord.com/users/huyvtrinh68" target="blank"><img align="center"
-src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png"
-alt="discord" height="50" width="50" /></a>
+src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+alt="discord" height="30" /></a>
 </p>
