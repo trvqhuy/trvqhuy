@@ -6,7 +6,7 @@
 </summary>
 </ul>
 </div>
-<h3 align="center">An enthusiast from Vietnam</h3>
+<h3 align="center">An enthusiast from Vietnam.</h3>
 <!--- snake -->
 <div align="center">
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
@@ -16,22 +16,22 @@
 <div id="user-content-toc">
 <ul align="center">
 <summary>
-<h2 style="display: inline-block">You don't have to be great to start, but you have to start to be great
+<h2 style="display: inline-block">You don't have to be great to start, but you have to start to be great.
 </h2>
 </summary>
 </ul>
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Full-stack Development, Quant Research**
+- 🔭 I’m currently working on **Full-stack Development, Quant Research**.
 
-- 🌱 I’m currently learning **to put together a vast selection of Front-end/Back-end Technologies.**
+- 🌱 I’m currently learning **to put together a vast selection of Front-end/Back-end Technologies**.
 
-- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing, so I'm learning **AWS**.
 
-- 💬 Ask me about **Python, C/C++, React, React-native, NodeJS, MongoDB**
+- 💬 Ask me about **Python, C/C++, React, React-native, NodeJS, MongoDB**.
 
-- 📫 Feel free to reach me out **quanghuytrinhvuong@gmail.com**
+- 📫 Feel free to reach me out: **quanghuytrinhvuong@gmail.com**.
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord – [huyvtrinh68](https://discord.com/users/huyvtrinh68) my username!
 <!--Intro end-->
