@@ -63,7 +63,7 @@ src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,g
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%206%20mins-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
