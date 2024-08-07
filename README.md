@@ -9,7 +9,9 @@
 <h3 align="center">An enthusiast from Vietnam.</h3>
 <!--- snake -->
 <div align="center">
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="/resources/grid-snake.svg" alt="snake">
+  </a>
 </div>
 
 <!--h2 without bottom border-->
