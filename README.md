@@ -8,11 +8,11 @@
 </div>
 <h3 align="center">An enthusiast from Vietnam.</h3>
 <!--- snake -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="/resources/grid-snake.svg" alt="snake">
   </a>
-</div>
+</div> -->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -88,16 +88,6 @@ Sunday                   65 commits          ████░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<!--- trophy (start) -->
-<div align=center>
-<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-<img align="center" width=84%
-src="https://github-profile-trophy.vercel.app/?username=trvqhuy&theme=juicyfresh&no-bg=true"
-alt="TROPHY" />
-</a>
-</div>
-<!--- trophy (start) -->
 
 </p>
 <!--- stats (end) -->
