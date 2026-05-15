@@ -65,25 +65,6 @@ src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,g
 </div>
 
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Tuesday                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Wednesday                291 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Thursday                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Friday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Saturday                 187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-```
-
 
 <!--END_SECTION:waka-->
 
