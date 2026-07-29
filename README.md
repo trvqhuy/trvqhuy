@@ -65,6 +65,33 @@ src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,g
 </div>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%201%20min-blue?style=flat)
+
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   507 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Tuesday                  530 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Wednesday                458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Thursday                 429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Friday                   479 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Saturday                 557 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Sunday                   352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
