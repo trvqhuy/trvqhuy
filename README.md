@@ -70,13 +70,13 @@ src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,g
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   790 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Tuesday                  726 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Wednesday                560 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Thursday                 607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Friday                   594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Saturday                 911 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Sunday                   458 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Monday                   790 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Tuesday                  726 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Wednesday                581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Thursday                 607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Friday                   594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 911 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Sunday                   458 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 ```
 
 
