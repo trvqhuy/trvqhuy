@@ -72,9 +72,9 @@ src="https://skillicons.dev/icons?i=py,git,nginx,redis,aws,css,docker,firebase,g
 ```text
 Monday                   1312 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 Tuesday                  1301 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Wednesday                940 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Thursday                 1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Friday                   1036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Wednesday                940 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Thursday                 1004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Friday                   1036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 Saturday                 1553 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
 Sunday                   731 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 ```
